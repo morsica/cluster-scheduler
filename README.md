@@ -6,7 +6,7 @@ Stop clients from scattering your day. This workflow forces all Cal.com bookings
 
 ## The Problem
 
-You share a booking link on weekends. By Monday, your calendar looks like this:
+You share a booking link, by Monday, your calendar looks like this:
 
 ```
 16:00 ░░░░ free
